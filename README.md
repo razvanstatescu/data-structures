@@ -4,9 +4,11 @@ A **data structure** is a particular way of organizing data in a computer so tha
 <br/><br/>
 In this [tutorial series][playlist] we implement some of the most used data structures:
 - [Stack][stackFolder]
+- [Linked List][linkedListFolder]
 <br>
 
 Check out [the full playlist][playlist] on YouTube.
 
 [playlist]: https://www.youtube.com/playlist?list=PLy2rcK8o10gNmfTInWmFF8loDxtEf5dcB
 [stackFolder]: stack
+[linkedListFolder]: linked_list
